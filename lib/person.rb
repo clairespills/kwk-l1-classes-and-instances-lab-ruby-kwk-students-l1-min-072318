@@ -3,6 +3,6 @@ class Person
 end
 
 adele_goldberg=Person.new
-=Person.new
+alan_kay=Person.new
 
 
