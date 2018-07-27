@@ -2,7 +2,7 @@ class Person
 
 end
 
-fido=Person.new
-snoopy=Person.new
+adele_goldberg=Person.new
+=Person.new
 
 
